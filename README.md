@@ -1,4 +1,4 @@
-# 🌍 Ulkelers 
+﻿# 🌍 Ulkelers 
 
 Ulkelers, kullanıcıların dünyayı interaktif ve eğlenceli bir şekilde keşfetmesini sağlayan, React tabanlı bir oyunlaştırma (gamification) ve simülasyon projesidir. 
 
@@ -23,7 +23,7 @@ Projeyi yerel ortamınızda (localhost) çalıştırmak için aşağıdaki adım
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/solmazgulecren-ux/Ulkelers.git](https://github.com/solmazgulecren-ux/Ulkelers.git)
+   git clone https://github.com/eco-polarislogs/Ulkelers.git
 Proje dizinine gidin:
 
 Bash
@@ -38,3 +38,4 @@ Bash
 npm run dev
 👥 Geliştirici Ekip
 Bu proje, GitHub üzerinden eşzamanlı takım çalışması yürütülerek, arayüz (UI/UX) tasarımı, yönlendirme mimarisi ve Git birleştirme stratejileri (merge conflict resolution) başarıyla uygulanarak geliştirilmiştir.
+
